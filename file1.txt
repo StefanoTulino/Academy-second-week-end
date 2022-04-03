@@ -1,0 +1,8 @@
+Lista prenotazioni: 
+[PrenotazioneRistorante(cognome=Prova, data=2022-04-05, numPersone=8, cellulare=33485168), PrenotazioneRistorante(cognome=Prova2, data=2022-04-06, numPersone=10, cellulare=34567), PrenotazioneRistorante(cognome=Prova2, data=2022-04-07, numPersone=10, cellulare=232412), PrenotazioneRistorante(cognome=Prova3, data=2022-04-06, numPersone=14, cellulare=3242134), PrenotazioneRistorante(cognome=Prova4, data=2022-04-06, numPersone=14, cellulare=3242), PrenotazioneRistorante(cognome=Rossi, data=2022-04-04, numPersone=10, cellulare=32152951), PrenotazioneRistorante(cognome=Tulino, data=2022-04-03, numPersone=15, cellulare=33347195)]
+
+Lista tavoli: 
+[Tavolo(numero=1, capienza=15), Tavolo(numero=2, capienza=30)]
+
+
+
